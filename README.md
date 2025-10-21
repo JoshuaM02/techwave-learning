@@ -8,6 +8,7 @@ Inspired by **Udemy’s user experience**, it provides a comprehensive solution 
 ## 🚀 Features
 
 ### 🧩 Core Functionality
+
 - **8 Complete Pages**: Home, Courses, Blog, FAQ, Contact, About, Login, Signup, and Dashboard  
 - **Shopping Cart System**: Add multiple courses and checkout at once  
 - **Student Dashboard**: Track course progress and view enrolled courses  
@@ -15,6 +16,7 @@ Inspired by **Udemy’s user experience**, it provides a comprehensive solution 
 - **Responsive Design**: Fully mobile-optimized UI/UX  
 
 ### ⚙️ Technical Features
+
 - **SEO Optimized**: Meta tags, Open Graph, Twitter Cards, and JSON-LD structured data  
 - **Accessibility Compliant**: WCAG 2.1 AA standards (ARIA labels + keyboard navigation)  
 - **TypeScript Strict Mode**: Full type safety across the application  
@@ -51,6 +53,7 @@ Inspired by **Udemy’s user experience**, it provides a comprehensive solution 
 ## 🛠️ Tech Stack
 
 ### 🎯 Frontend
+
 - **Framework:** React 18 + TypeScript  
 - **Styling:** Tailwind CSS + Framer Motion (for animations)  
 - **Routing:** React Router v6  
@@ -59,11 +62,13 @@ Inspired by **Udemy’s user experience**, it provides a comprehensive solution 
 - **Build Tool:** Vite  
 
 ### 🔍 SEO & Analytics
+
 - **Meta Tags:** React Helmet Async  
 - **Structured Data:** JSON-LD Schema Markup  
 - **Performance:** Optimized for Core Web Vitals  
 
 ### 🧑‍💻 Development
+
 - **Code Quality:** ESLint + Prettier  
 - **Type Safety:** TypeScript strict mode  
 - **Environment Config:** `.env` support for API keys and secrets  
@@ -108,6 +113,7 @@ techwave-learning/
 ## 🧩 Getting Started
 
 ### ✅ Prerequisites
+
 - Node.js **v16+**
 - npm or yarn
 - Git
@@ -115,23 +121,28 @@ techwave-learning/
 ### ⚙️ Installation
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/techwave-learning.git
 cd techwave-learning/frontend
 ```
 
 Install dependencies:
+
 ```bash
 npm install
 ```
 
 Create an environment file:
+
 ```bash
 cp .env.example .env
 ```
+
 > Update with your actual API keys when integrating Firebase/Stripe.
 
 Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -140,6 +151,7 @@ Open your browser:
 👉 [http://localhost:3000](http://localhost:3000)
 
 ### 🏗️ Build for Production
+
 ```bash
 npm run build
 npm run preview
@@ -169,6 +181,7 @@ VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ## 🎯 SEO & Performance
 
 ### 🌐 SEO Features
+
 - ✅ Meta Tags: Title, description, and keywords for each page  
 - 🧠 Open Graph & Twitter Cards for social sharing  
 - 📘 JSON-LD Structured Data:
@@ -181,6 +194,7 @@ VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 - 🗺️ Sitemap-ready structure  
 
 ### ⚡ Performance Metrics
+
 - **Lighthouse Score:** 95+ (Performance), 100 (Accessibility)  
 - **Core Web Vitals:** Optimized for LCP, FID, CLS  
 - **Bundle Optimization:** Code splitting + lazy loading  
@@ -194,17 +208,23 @@ Contributions are always welcome!
 
 1. Fork the repository  
 2. Create your feature branch  
+  
    ```bash
    git checkout -b feature/AmazingFeature
    ```
+
 3. Commit your changes  
+
    ```bash
    git commit -m "Add some AmazingFeature"
    ```
-4. Push to the branch  
+
+4. Push to the branch
+  
    ```bash
    git push origin feature/AmazingFeature
    ```
+
 5. Open a Pull Request  
 
 ---
@@ -232,4 +252,13 @@ For **questions, issues, or feature requests**, please [open an issue](https://g
 
 ---
 
-**Made with ❤️ by TechWave Learning Team**
+## 🧑‍💻 Author
+
+**Joshua Miller**  
+📧 Contact: [joshuamiller2030@gmail.com](mailto:joshuamiller2030@gmail.com)  
+🌐 GitHub: [github.com/JoshuaM02](https://github.com/JoshuaM02)  
+💬 WhatsApp: [Available on request](mailto:joshuamiller2030@gmail.com)
+
+---
+
+### Made with ❤️ by TechWave Learning Team
