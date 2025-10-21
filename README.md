@@ -38,16 +38,33 @@ Inspired by **Udemy’s user experience**, it provides a comprehensive solution 
 - **Interactive Elements:** Subtle animations, hover effects, and micro-interactions  
 
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## 📸 Screenshots
 
-> *(Add screenshots in your `/public` folder and update these paths accordingly)*
+<p><em>All screenshots are stored in the <code>/public/screenshots</code> directory</em></p>
 
-- **Home Page**
-- **Course Catalog**
-- **Shopping Cart**
-- **Student Dashboard**
+<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:flex-start;">
+  <figure style="margin:0;max-width:360px;border:1px solid #e6e9ee;padding:12px;border-radius:10px;box-shadow:0 6px 18px rgba(10,20,50,0.05);background:#fff;">
+    <img src="public/screenshots/home-page.png" alt="TechWave Learning - Home Page" style="display:block;width:100%;height:auto;border-radius:8px;">
+    <figcaption style="text-align:center;margin-top:10px;font-size:14px;color:#334155;">🏠 Home Page</figcaption>
+  </figure>
 
+  <figure style="margin:0;max-width:360px;border:1px solid #e6e9ee;padding:12px;border-radius:10px;box-shadow:0 6px 18px rgba(10,20,50,0.05);background:#fff;">
+    <img src="public/screenshots/course-catalog.png" alt="TechWave Learning - Course Catalog" style="display:block;width:100%;height:auto;border-radius:8px;">
+    <figcaption style="text-align:center;margin-top:10px;font-size:14px;color:#334155;">🎓 Course Catalog</figcaption>
+  </figure>
+
+  <figure style="margin:0;max-width:360px;border:1px solid #e6e9ee;padding:12px;border-radius:10px;box-shadow:0 6px 18px rgba(10,20,50,0.05);background:#fff;">
+    <img src="public/screenshots/shopping-cart.png" alt="TechWave Learning - Shopping Cart" style="display:block;width:100%;height:auto;border-radius:8px;">
+    <figcaption style="text-align:center;margin-top:10px;font-size:14px;color:#334155;">🛒 Shopping Cart</figcaption>
+  </figure>
+
+  <figure style="margin:0;max-width:360px;border:1px solid #e6e9ee;padding:12px;border-radius:10px;box-shadow:0 6px 18px rgba(10,20,50,0.05);background:#fff;">
+    <img src="public/screenshots/student-dashboard.png" alt="TechWave Learning - Student Dashboard" style="display:block;width:100%;height:auto;border-radius:8px;">
+    <figcaption style="text-align:center;margin-top:10px;font-size:14px;color:#334155;">📊 Student Dashboard</figcaption>
+  </figure>
+</div>
+<!-- markdownlint-enable MD033 -->
 ---
 
 ## 🛠️ Tech Stack
